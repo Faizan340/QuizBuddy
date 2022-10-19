@@ -1,0 +1,42 @@
+export const Questions = [
+    {
+      prompt: "JavaScript is a ?",
+      optionA: "Internet Hosting Service",
+      optionB: "Programing Language",
+      optionC: "Database Management System",
+      optionD: "None of the above",
+      asnwer: "optionB",
+    },
+    {
+      prompt: "Which of these is not a JavaScript Framework?",
+      optionA: "React",
+      optionB: "Vue",
+      optionC: "Angular",
+      optionD: "Django",
+      asnwer: "optionD",
+    },
+    {
+      prompt: "Which of these is not a programing language?",
+      optionA: "Java",
+      optionB: "GitHub",
+      optionC: "Python",
+      optionD: "JavaScript",
+      asnwer: "optionB",
+    },
+    {
+        prompt: "Which of the following is widely used to develop Mobile Applications?",
+        optionA: "Laravel",
+        optionB: "Flask",
+        optionC: "Flutter",
+        optionD: "ASP.NET Core",
+        asnwer: "optionC",
+      },
+      {
+        prompt: "What does HTML stand for?",
+        optionA: "Hyperlinks and Text Markup Language",
+        optionB: "Hyper Text Markup Language",
+        optionC: "Home Tool Markup Language",
+        optionD: "Header Text Markup Language",
+        asnwer: "optionB",
+      },
+  ];
